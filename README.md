@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [ghostsdesign.com](ghostsdesign.com)
 
-- 📫 How to reach me **tiberiu@ghostsdesign.it**
+- 📫 How to reach me **info@ghostsdesign.com**
 
 - 📄 Know about my experiences [ghostsdesign.com](ghostsdesign.com)
 
