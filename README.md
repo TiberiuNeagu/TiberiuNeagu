@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **Backend developers**
 
-- 👨‍💻 All of my projects are available at [ghostsdesign.it](ghostsdesign.it)
+- 👨‍💻 All of my projects are available at [ghostsdesign.com](ghostsdesign.com)
 
 - 📫 How to reach me **tiberiu@ghostsdesign.it**
 
-- 📄 Know about my experiences [ghostsdesign.it](ghostsdesign.it)
+- 📄 Know about my experiences [ghostsdesign.com](ghostsdesign.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
