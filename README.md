@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiberiuneagu&show_icons=true&theme=tokyonight&locale=en" alt="tiberiuneagu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiberiuneagu&theme=dark" alt="tiberiuneagu" /></p>
